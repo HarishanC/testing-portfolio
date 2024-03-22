@@ -1,0 +1,31 @@
+html{background-image: linear-gradient(skyblue,white);}
+.mainmenu{padding: 10px;
+text-align: center;
+background-color: darkblue;}
+a{padding: 20px;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: 900;
+}
+
+#end{padding: 10px;
+background-color: aqua;
+text-align: center;}
+
+h1{padding: 30px;
+text-align: center;}
+
+table{margin: auto;}
+th{text-align: center;
+padding: 30px;
+font-size: xx-large;}
+
+td{text-align: center;
+font-size: large;
+padding-top: 20px;}
+
+hr{margin: auto;}
+
+p{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;}
